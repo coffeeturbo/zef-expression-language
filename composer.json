@@ -1,5 +1,5 @@
 {
-	"name" : "zef-dev/zef-expression-language",
+	"name" : "coffeeturbo/zef-expression-language",
     "type": "library",
 	"description" : "A JUEL like extension for Symfony Expression Language",
     "homepage": "https://github.com/zef-dev/zef-expression-language",
